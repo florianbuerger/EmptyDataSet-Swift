@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import EmptyDataSet
 
 class NewUsageViewController: UITableViewController {
     
