@@ -1,6 +1,8 @@
 platform :ios,'8.0'
 
-target 'EmptyDataSet-Swift' do
+inhibit_all_warnings!
+
+target 'Example' do
 
 use_frameworks!
 
